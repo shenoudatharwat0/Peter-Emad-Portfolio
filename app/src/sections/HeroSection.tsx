@@ -157,8 +157,8 @@ export function HeroSection() {
           >
             <div className="relative w-full max-w-lg">
               <img
-                src="./assets/hero-illustration.jpg"
-                alt="Mobile development illustration"
+                src="./assets/Profile.jpeg"
+                alt="Peter Emad"
                 className="w-full h-auto rounded-xl-md object-cover"
                 loading="eager"
               />
